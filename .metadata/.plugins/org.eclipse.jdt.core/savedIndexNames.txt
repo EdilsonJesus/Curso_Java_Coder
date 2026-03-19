@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/home/crerparaviver/WorkSpace/Udemy/Curso_Java_Coder/.metadata/.plugins/org.eclipse.jdt.core
-4048133997.index
-2949097923.index
-1865797976.index

@@ -4,10 +4,11 @@ bin/
 target/
 build/
 
-# IDE files
+# IDE files - Eclipse, IntelliJ, VSCode, etc.
 .classpath
 .project
 .settings/
+.metadata/
 *.iml
 .idea/
 .vscode/
@@ -18,7 +19,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Temporary files
-*.tmp
-*.temp
