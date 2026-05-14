@@ -3,6 +3,7 @@
 bin/
 target/
 build/
+out/
 
 # IDE files - Eclipse, IntelliJ, VSCode, etc.
 .classpath
