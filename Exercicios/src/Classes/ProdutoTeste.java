@@ -6,10 +6,8 @@ public class ProdutoTeste {
 
 	public static void main(String[] args) {
 		
-		Produto p1 = new Produto();
-		p1.nome = "Headseat";
-		p1.preco = 159.90;
-		p1.desconto = 0.10;
+		Produto p1 = new Produto("NOtebook", 139.90, 0.1);
+		
 		
 		var p2 = new Produto();
 		p2.nome = "DDR4";
